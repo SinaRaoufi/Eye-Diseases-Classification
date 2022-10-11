@@ -11,21 +11,21 @@ The dataset can be downloaded here: https://www.kaggle.com/datasets/gunavenkatdo
 
 Cataract  
 
-<img src="https://github.com/SinaRaoufi/Eye-Diseases-Classification/blob/master/samples/cataract.jpg" width="256" height="256" />
+<img src="https://github.com/SinaRaoufi/Eye-Diseases-Classification/blob/master/samples/cataract.jpg" width="128" height="128" />
 
 Diabetic Retinopathy
 
-<img src="https://github.com/SinaRaoufi/Eye-Diseases-Classification/blob/master/samples/diabetic_retinopathy.jpeg" width="256" height="256" />
+<img src="https://github.com/SinaRaoufi/Eye-Diseases-Classification/blob/master/samples/diabetic_retinopathy.jpeg" width="128" height="128" />
 
 Glaucoma
 
-<img src="https://github.com/SinaRaoufi/Eye-Diseases-Classification/blob/master/samples/glaucoma.jpg" width="256" height="256" />
+<img src="https://github.com/SinaRaoufi/Eye-Diseases-Classification/blob/master/samples/glaucoma.jpg" width="128" height="128" />
 
 Normal
 
-<img src="https://github.com/SinaRaoufi/Eye-Diseases-Classification/blob/master/samples/normal.jpg" width="256" height="256" />
+<img src="https://github.com/SinaRaoufi/Eye-Diseases-Classification/blob/master/samples/normal.jpg" width="128" height="128" />
 
 
 
 ## Model:
-I use Convolutional neural network (CNN) for this classification.
+For this classification, I use a Convolutional neural network (CNN) which is made of convolution stages (Conv2d, ReLU, MaxPool2d) and a fully connected layer at the end.
