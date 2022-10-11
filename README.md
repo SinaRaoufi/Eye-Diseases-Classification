@@ -1,5 +1,5 @@
 # Eye diseases classification 👁️
-Eye Diseases Classification with LSTM using pytorch
+Eye Diseases Classification with CNN using pytorch
 
 
 ## Dataset:
